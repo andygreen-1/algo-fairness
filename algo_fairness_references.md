@@ -34,6 +34,7 @@
 
 - Jennifer Chien and Adam Rust (2024). [Urgent Call for Regulatory Clarity on the Need to Search for and Implement Less Discriminatory Algorithms](https://advocacy.consumerreports.org/research/consumer-groups-letter-urging-cfpb-to-protect-consumers-from-discriminatory-algorithms/). Consumer Reports and Consumer Federation of America.
 - National Community Reinvestment Coalition, Zest AI, Upstart, Stratify, and FairPlay (2024). [NCRC and Fintechs - Joint Letter on Fair Lending and the Executive Order on AI](https://ncrc.org/ncrc-and-fintechs-joint-letter-on-fair-lending-and-the-executive-order-on-ai/). National Community Reinvestment Coalition, Zest AI, Upstart, Stratify, and FairPlay.
+- National Consumer Law Center (2024). [Past Imperfect: How Credit Scores and Other Analytics “Bake In” and Perpetuate Past Discrimination](https://www.nclc.org/resources/past-imperfect-how-credit-scores-and-other-analyticsbake-in-and-perpetuate-past-discrimination/). National Consumer Law Center.
 
 
 ## Technical Documentation
