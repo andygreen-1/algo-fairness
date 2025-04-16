@@ -14,6 +14,7 @@
 - Talia B. Gillis, Vitaly Meursault, and Berk Ustun (2024). [Operationalizing the Search for Less Discriminatory Alternatives in Fair Lending](https://dl.acm.org/doi/10.1145/3630106.3658912). FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency.
 - Joshua Grossman, Julian Nyarko, and Sharad Goel (2024). [Reconciling Legal and Empirical Conceptions of Disparate Impact: An Analysis of Police Stops Across California](https://5harad.com/papers/disparate-impact.pdf). Journal of Law and Empirical Analysis.
 - Alekh Agarwal, Alina Beygelzimer, Miroslav Dudik, John Langford, and Hanna Wallach (2018). [A Reductions Approach to Fair Classification](https://arxiv.org/pdf/1803.02453). 35th Annual Conference on Machine Learning.
+- Max Hort, Zhenpeng Chen, Jie M. Zhang, Mark Harman, and Federica Sarro (2018). [Bias Mitigation for Machine Learning Classifiers: A Comprehensive Survey](https://arxiv.org/abs/2207.07068). Association for Computing Machinery.
  
 
 ## Other Research
