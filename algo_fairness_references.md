@@ -23,6 +23,7 @@
 - FinRegLab (2022). [Machine Learning Explainability & Fairness: Insights from Consumer Lending](https://finreglab.org/research/machine-learning-explainability-fairness-insights-from-consumer-lending/). FinRegLab.
 - Relman Colfax (2021-2024). [Fair Lending Monitorship of Upstart Network's Lending Model](https://www.relmanlaw.com/cases-406). Relman Colfax.
 - John Merrill, Mark Jones, Mark Eberstein, Kareem Saleh, Dana Lockwood, Lusine Petroysan, Michael Akinwumi (2024). [Improving Mortgage Underwriting and Pricing Outcomes for Protected Classes through Distribution Matching](https://nationalfairhousing.org/wp-content/uploads/2024/04/Unlocking-Fairness-Final_April-2024.pdf). National Fair Housing Alliance and FairPlay AI.
+- Justin-Casimir Braun, Gabriel Geiger, Eileen Guo, Eva Constantaras, Amanda Silverman (2025). [How we investigated Amsterdam’s attempt to build a ‘fair’ fraud detection model](https://www.lighthousereports.com/methodology/amsterdam-fairness/). Lighthouse Reports.
 
 
 ## CFPB
